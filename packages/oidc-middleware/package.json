@@ -41,7 +41,7 @@
     "negotiator": "^0.6.1",
     "node-fetch": "^2.3.0",
     "openid-client": "3.12.2",
-    "passport": "^0.4.1",
+    "passport": "^0.5.2",
     "uuid": "^3.1.0"
   },
   "devDependencies": {
