@@ -33,7 +33,7 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "@okta/configuration-validation": "^0.4.1",
+    "@okta/configuration-validation": "^0.4.3",
     "body-parser": "^1.18.2",
     "csurf": "^1.9.0",
     "express": "^4.16.3",
